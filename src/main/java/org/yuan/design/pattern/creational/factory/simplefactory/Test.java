@@ -1,4 +1,4 @@
-package org.yuan.design.pattern.creational.simplefactory;
+package org.yuan.design.pattern.creational.factory.simplefactory;
 
 public class Test {
     public static void main(String[] args) {
